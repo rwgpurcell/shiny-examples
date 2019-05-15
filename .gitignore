@@ -14,3 +14,10 @@
 
 # DS Store
 .DS_Store
+
+
+# Log Files
+logfile*.txt
+
+# Packrat lockfiles generated during RSC deploy
+packrat.lock
